@@ -58,4 +58,3 @@ Se você quiser revisar este tema no futuro, pode usar estes prompts diretamente
 
 ---
 *Projeto desenvolvido para o desafio da [DIO](https://www.dio.me/).*
-```
